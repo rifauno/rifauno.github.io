@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Rifa",
-    "currentPage": "participantes.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
     "uniqCompNum": 56,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/icone-128x103.png",
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
