@@ -1113,12 +1113,15 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rG8lfTSLSD {
-  padding-top: 105px;
-  padding-bottom: 60px;
+  padding-top: 120px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/home-1175x783.jpg");
 }
 .cid-rG8lfTSLSD .mbr-text {
   color: #fafd00;
+}
+.cid-rG8lfTSLSD H2 {
+  text-align: center;
 }
 .cid-rG8pEf2zp3 {
   padding-top: 60px;
